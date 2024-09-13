@@ -1,0 +1,48 @@
+
+### 2. `.gitignore`
+
+```gitignore
+# Arquivos e pastas do Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+env/
+venv/
+*.db
+*.sqlite3
+
+# Arquivos de configuração de IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.suo
+*.user
+*.userosscache
+*.suo
+*.ncb
+*.swp
+*~
+.DS_Store
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos de saída
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+
+# Arquivos de dados
+*.csv
+*.xlsx
+*.xls
